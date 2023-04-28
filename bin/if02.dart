@@ -20,5 +20,5 @@ Returns:
     return 0;
 }
 void main(){
- print(func(3, 6, 10));   
+ print(func(9, 6, 10));   
 }
